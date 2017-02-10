@@ -1,17 +1,16 @@
-# Node Serialport
+# Node Serialport - Cross Compiled for the Omega2
 
-[![Build Status](https://travis-ci.org/voodootikigod/node-serialport.svg?branch=master)](https://travis-ci.org/voodootikigod/node-serialport)
-[![Gitter chat](https://badges.gitter.im/voodootikigod/node-serialport.svg)](https://gitter.im/voodootikigod/node-serialport)
-[![Dependency Status](https://david-dm.org/voodootikigod/node-serialport.svg)](https://david-dm.org/voodootikigod/node-serialport)
+![omega.png](omega.png)
 
-For support you can open a [github issue](https://github.com/voodootikigod/node-serialport/issues/new), for discussions, designs, and clarifications, we recommend you join our [Gitter Chat room](https://gitter.im/voodootikigod/node-serialport)
+This is the `npm serialport` package @ 3.0.0 cross-compiled to run on LEDE (MIPS architecture) on the [Onion Omega2](https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux).
 
-***
+To install:
 
-You're reading the README for `serialport@3.0.0` the latest `3.x` release. See our [change log](changelog.md) for what's new.
+```
+$ npm install serialport-omega2
+```
 
- - [`serialport@2.1.2` docs are here](https://github.com/voodootikigod/node-serialport/blob/2.1.2/README.md) it was the last `2.x` release
- - [`serialport@1.7.4` docs are here](https://github.com/voodootikigod/node-serialport/blob/v1.7.4/README.md) it was the last `1.x` release
+Enjoy! 
 
 ***
 
