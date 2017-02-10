@@ -29,6 +29,9 @@
   "engines": {
     "node": ">= 0.10.0"
   },
+  "config": {
+    "unsafe-perm": true
+  },
   "bin": {
     "serialportlist": "./bin/serialportList.js",
     "serialportterm": "./bin/serialportTerminal.js"
