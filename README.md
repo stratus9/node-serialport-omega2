@@ -2,7 +2,7 @@
 
 ![omega.png](omega.png)
 
-This is the [`npm serialport`](https://github.com/EmergingTechnologyAdvisors/node-serialport/tree/3.0.0) package @ 3.0.0 cross-compiled to run on LEDE (MIPS architecture) on the [Onion Omega2](https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux).
+This is the [`npm serialport`](https://github.com/EmergingTechnologyAdvisors/node-serialport/tree/3.0.0) package @ 3.0.0 [cross-compiled](https://github.com/sdesalas/node-serialport-omega2/wiki/How-to-Cross-Compile-NPM-module-on-Omega2) to run on LEDE (MIPS architecture) on the [Onion Omega2](https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux).
 
 To install:
 
