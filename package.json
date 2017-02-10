@@ -34,7 +34,7 @@
     "serialportterm": "./bin/serialportTerminal.js"
   },
   "scripts": {
-    "install": "tar -xzvf node_modules.tar.gz && tar -xzvf build.tar.gz "
+    "install": "tar -xzvf node_modules.tar.gz"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
