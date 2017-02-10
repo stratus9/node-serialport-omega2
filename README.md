@@ -2,12 +2,12 @@
 
 ![omega.png](omega.png)
 
-This is the `npm serialport` package @ 3.0.0 cross-compiled to run on LEDE (MIPS architecture) on the [Onion Omega2](https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux).
+This is the [`npm serialport`](https://github.com/EmergingTechnologyAdvisors/node-serialport/tree/3.0.0) package @ 3.0.0 cross-compiled to run on LEDE (MIPS architecture) on the [Onion Omega2](https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux).
 
 To install:
 
 ```
-$ npm install serialport-omega2
+$ npm install github:sdesalas/node-serialport-omega2
 ```
 
 Enjoy! 
