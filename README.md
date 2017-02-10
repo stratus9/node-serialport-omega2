@@ -12,7 +12,7 @@ $ npm install github:sdesalas/node-serialport-omega2
 
 Enjoy! 
 
-![robotarm.png](robotarm.png)
+![robotarm.png](robotarm.gif)
 
 ***
 
