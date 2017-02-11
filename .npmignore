@@ -12,6 +12,7 @@ test/
 
 # MIRRORED FROM .gitignore PLEASE MAINTAIN
 *.node
+dist/
 .DS_Store
 build/
 node_modules
