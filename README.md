@@ -10,7 +10,7 @@ To install:
 $ npm install github:sdesalas/node-serialport-omega2
 ```
 
-Did you want to find out more about [cross-compiling npm packages for Omega2](https://github.com/sdesalas/node-serialport-omega2/wiki/How-to-Cross-Compile-NPM-module-on-Omega2)?.
+Check the wiki to find out more about [cross-compiling npm packages for Omega2](https://github.com/sdesalas/node-serialport-omega2/wiki/How-to-Cross-Compile-NPM-module-on-Omega2).
 
 Enjoy! 
 
