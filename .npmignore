@@ -9,6 +9,7 @@ examples/
 Gruntfile.js
 PUBLISHING.md
 test/
+robotarm.gif
 
 # MIRRORED FROM .gitignore PLEASE MAINTAIN
 *.node
