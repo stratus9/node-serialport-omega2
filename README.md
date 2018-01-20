@@ -2,7 +2,7 @@
 
 ![omega.png](omega.png)
 
-This is the [`npm serialport`](https://github.com/EmergingTechnologyAdvisors/node-serialport/tree/3.0.0) package @ 3.0.0 [cross-compiled](https://github.com/sdesalas/node-serialport-omega2/wiki/How-to-Cross-Compile-NPM-module-on-Omega2) to run on LEDE (MIPS architecture) on the [Onion Omega2](https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux).
+This is the [`npm serialport`](https://github.com/EmergingTechnologyAdvisors/node-serialport/tree/3.0.0) package @ 3.0.0 [cross-compiled](https://github.com/sdesalas/node-serialport-omega2/wiki/How-to-Cross-Compile-an-NPM-module-on-Omega2) to run on LEDE (MIPS architecture) on the [Onion Omega2](https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux).
 
 To install:
 
@@ -10,7 +10,7 @@ To install:
 $ npm install github:sdesalas/node-serialport-omega2
 ```
 
-Check the wiki to find out more about [cross-compiling npm packages for Omega2](https://github.com/sdesalas/node-serialport-omega2/wiki/How-to-Cross-Compile-NPM-module-on-Omega2).
+Check the wiki to find out more about [cross-compiling npm packages for Omega2](https://github.com/sdesalas/node-serialport-omega2/wiki/How-to-Cross-Compile-an-NPM-module-on-Omega2).
 
 Enjoy! 
 
